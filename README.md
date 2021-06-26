@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @chemeleon2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+hai I am chemeleon
 
-<!---
-chemeleon2/chemeleon2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![0x5ea05f88a2a5e6ea7c46fc88bc94ba0f16e871a8](https://user-images.githubusercontent.com/86524598/123517114-8995d280-d6c9-11eb-9c0c-047dcc67c72b.png)
+
